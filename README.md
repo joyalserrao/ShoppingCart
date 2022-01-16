@@ -1,6 +1,8 @@
 # ShoppingCart
 
-step 1: install : pod install
+step 1: 
+
+  pod install
 
 screenshots
 
